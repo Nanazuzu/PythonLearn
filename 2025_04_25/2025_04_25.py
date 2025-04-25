@@ -3,15 +3,15 @@ def count_fashion_combinations(clothes: list[list[str]]) -> int:
   cate_str = []
   cate_map = {}
   for l in range(len(clothes)):
-    if not(clothes[l][1] in cate_str):
+    if not(clothes[l][1] in cate_str):  #"if clothes[l][1] not in cate_str" is better
       cate += 1
       cate_str.append(clothes[l][1])
-      cate_map[clothes[l][1]] = list()
+      cate_map[clothes[l][1]] = list()  #"defaultdict(list)"
       cate_map[clothes[l][1]].append(clothes[l][0])
     else:
       cate_map[clothes[l][1]].append(clothes[l][0])
   res = 1
-  for index in cate_str:
+  for index in cate_str:  #"cate_str" can transfer to key in cate_map
     intd = len(cate_map[index]) + 1
     res *= intd
   res -= 1
