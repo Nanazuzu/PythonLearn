@@ -1,7 +1,7 @@
 def zero_erase_difference(n: int) -> int:
   e = 0
   list_num = []
-  f = n
+  f = n #DO NOT USE ORIGINAL OF N
   while(True):
     if n // 10 ** e != 0:
       e += 1
