@@ -1,0 +1,34 @@
+name: 📄 Auto Update README.md
+
+on:
+  push:
+    branches:
+      - main  # 브랜치 이름이 main이 아니면 수정
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (if any)
+        run: |
+          echo "No dependencies required"
+
+      - name: Run generate_readme.py
+        run: python generate_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add code/README.md
+          git commit -m "🤖 자동 업데이트: README.md 함수 목록 최신화" || echo "No changes to commit"
+          git push
