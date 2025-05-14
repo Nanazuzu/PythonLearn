@@ -35,7 +35,7 @@ def commit_and_push(readme_path):
     subprocess.run(['git', 'push'], check=False)
 
 def main():
-    base_dir = 'code'
+    base_dir = '.'
     generate_readme(base_dir)
     commit_and_push(os.path.join(base_dir, 'README.md'))
 
