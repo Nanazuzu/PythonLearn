@@ -158,5 +158,13 @@
  - 2025_05_14
    -- def remove_duplicates(...):
  - 2025_05_14(2)
+   -- def sort_words(...):
+ - 2025_05_14(3)
    -- def compress_list(...):
+
+## 📅 2025_05_15
+ - 2025_05_15
+   -- def split_even_odd(...):
+ - 2025_05_15(2)
+   -- def range_sums(...):
 
