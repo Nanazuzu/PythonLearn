@@ -168,3 +168,27 @@
  - 2025_05_15(2)
    -- def range_sums(...):
 
+## 📅 2025_05_16
+ - 2025_05_16
+   -- def prime(...):
+   -- def division(...):
+   -- def common_divisors(...):
+ - 2025_05_16(2)
+   -- def cnt_div(...):
+   -- def number_with_most_divisors(...):
+
+## 📅 2025_05_17
+ - 2025_05_17
+   -- def flip_bits(...):
+ - 2025_05_17(2)
+   -- def visualize_word_length_frequency(...):
+ - 2025_05_17(3)
+   -- def reverse_number(...):
+
+## 📅 2025_05_18
+ - 2025_05_18
+   -- def primes(...):
+   -- def filter_primes(...):
+ - 2025_05_18(2)
+   -- def filter_and_sort(...):
+
