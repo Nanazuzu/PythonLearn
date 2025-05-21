@@ -192,3 +192,21 @@
  - 2025_05_18(2)
    -- def filter_and_sort(...):
 
+## 📅 2025_05_19
+ - 2025_05_19
+   -- def elevator_simulation(...):
+ - 2025_05_19(2)
+   -- def group_anagrams(...):
+
+## 📅 2025_05_20
+ - 2025_05_20
+   -- def find_largest_number_with_same_digit_sum(...):
+ - 2025_05_20(2)
+   -- def is_spam_email(...):
+
+## 📅 2025_05_21
+ - 2025_05_21
+   -- def best_score_combination(...):
+ - 2025_05_21(2)
+   -- def most_frequent_word(...):
+
