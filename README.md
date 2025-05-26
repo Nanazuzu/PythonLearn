@@ -210,3 +210,35 @@
  - 2025_05_21(2)
    -- def most_frequent_word(...):
 
+## 📅 2025_05_22
+ - 2025_05_22
+   -- def compress_numbers(...):
+ - 2025_05_22(2)
+   -- def select_passed_students(...):
+
+## 📅 2025_05_23
+ - 2025_05_23
+   -- def explode_string(...):
+ - 2025_05_23(2)
+   -- def sort_file_names(...):
+
+## 📅 2025_05_24
+ - 2025_05_24
+   -- def coin_change(...):
+ - 2025_05_24(2)
+   -- def dfs(...):
+   -- def count_islands(...):
+
+## 📅 2025_05_25
+ - 2025_05_25
+   -- def two_sum(...):
+ - 2025_05_25(2)
+   -- def minimum_operations(...):
+
+## 📅 2025_05_26
+ - 2025_05_26
+   -- def is_palindrome(...):
+   -- def longest_palindrome(...):
+ - 2025_05_26(2)
+   -- def largest_number(...):
+
