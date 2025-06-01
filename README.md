@@ -242,3 +242,40 @@
  - 2025_05_26(2)
    -- def largest_number(...):
 
+## 📅 2025_05_27
+ - 2025_05_27
+   -- def max_subarray_sum(...):
+ - 2025_05_27(2)
+   -- def max_meetings(...):
+
+## 📅 2025_05_28
+ - 2025_05_28
+   -- def mix_scoville(...):
+ - 2025_05_28(2)
+   -- def can_complete_circuit(...):
+
+## 📅 2025_05_29
+ - 2025_05_29
+   -- def dfs(...):
+   -- def count_networks(...):
+ - 2025_05_29(2)
+   -- def count_visible_students(...):
+
+## 📅 2025_05_30
+ - 2025_05_30
+   -- def find_max_average(...):
+ - 2025_05_30(2)
+   -- def min_meeting_rooms(...):
+
+## 📅 2025_05_31
+ - 2025_05_31
+   -- def minimize_sum(...):
+ - 2025_05_31(2)
+   -- def frequency_sort(...):
+
+## 📅 2025_06_01
+ - 2025_06_01
+   -- def single_number(...):
+ - 2025_06_01(2)
+   -- def longest_unique_subarray(...):
+
