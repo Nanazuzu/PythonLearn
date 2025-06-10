@@ -279,3 +279,56 @@
  - 2025_06_01(2)
    -- def longest_unique_subarray(...):
 
+## 📅 2025_06_02
+ - 2025_06_02
+   -- def subsets(...):
+ - 2025_06_02(2)
+   -- def merge_intervals(...):
+
+## 📅 2025_06_03
+ - 2025_06_03
+   -- def can_form_staircase(...):
+ - 2025_06_03(2)
+   -- def is_valid_email(...):
+
+## 📅 2025_06_04
+ - 2025_06_04
+   -- def largest_square(...):
+ - 2025_06_04(2)
+   -- def count_frequencies(...):
+
+## 📅 2025_06_05
+ - 2025_06_05
+   -- def custom_sort(...):
+ - 2025_06_05(2)
+   -- def combination_sum_count(...):
+
+## 📅 2025_06_06
+ - 2025_06_06
+   -- def veteran_age_statistics(...):
+ - 2025_06_06(2)
+   -- def max_alternating_subarray(...):
+
+## 📅 2025_06_07
+ - 2025_06_07
+   -- def max_profit(...):
+ - 2025_06_07(2)
+
+## 📅 2025_06_08
+ - 2025_06_08
+   -- def two_sum_combinations(...):
+ - 2025_06_08(2)
+   -- def most_common_word(...):
+
+## 📅 2025_06_09
+ - 2025_06_09
+   -- def dedup_and_sort(...):
+ - 2025_06_09(2)
+   -- def mask_email(...):
+
+## 📅 2025_06_10
+ - 2025_06_10
+   -- def word_sort(...):
+ - 2025_06_10(2)
+   -- def card_merge(...):
+
