@@ -332,3 +332,48 @@
  - 2025_06_10(2)
    -- def card_merge(...):
 
+## 📅 2025_06_11
+ - 2025_06_11
+   -- def lis_length(...):
+ - 2025_06_11(2)
+   -- def robot_cleaner(...):
+
+## 📅 2025_06_12
+ - 2025_06_12
+   -- def reverse_words_with_tags(...):
+ - 2025_06_12(2)
+   -- def sigma_square(...):
+
+## 📅 2025_06_14
+ - 2025_06_14
+   -- def forgotten_words(...):
+ - 2025_06_14(2)
+   -- def count_numbers(...):
+
+## 📅 2025_06_15
+ - 2025_06_15
+   -- def lru_words(...):
+ - 2025_06_15(2)
+   -- def count_uppercase_words(...):
+
+## 📅 2025_06_16
+ - 2025_06_16
+   -- def inserting(...):
+   -- def phone_combinations(...):
+ - 2025_06_16(2)
+   -- def helper(...):
+   -- def word_ladder(...):
+
+## 📅 2025_06_17
+ - 2025_06_17
+   -- def snail_matrix(...):
+ - 2025_06_17(2)
+   -- def is_last_bracket(...):
+   -- def bracket_score(...):
+
+## 📅 2025_06_18
+ - 2025_06_18
+   -- def is_subsequence(...):
+ - 2025_06_18(2)
+   -- def most_common_letter(...):
+
